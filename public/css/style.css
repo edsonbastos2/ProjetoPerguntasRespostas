@@ -1,0 +1,37 @@
+body {
+  background-color: #eceff1;
+}
+
+.card-header {
+  background-color: #338a3e;
+}
+
+.card-header h1 {
+  color: #fff;
+  font-weight: 300;
+}
+
+label {
+  font-weight: bold;
+}
+
+/* Navbar */
+
+.bg-full {
+  background-color: #338a3e;
+}
+
+.navbar img {
+  max-height: 40px;
+}
+
+/* Formatação da cor dos cards */
+.container h1 {
+  font-weight: 300;
+  font-size: 2rem;
+  margin-bottom: 5vh;
+}
+.card h5 {
+  color: #fff;
+  font-weight: 300;
+}
